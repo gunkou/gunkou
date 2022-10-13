@@ -1,8 +1,8 @@
 {
-    "redirects: [
+    "redirects": [
         {
-          "source": "/index.html",
-          "destination": "https://eth.gunkou.xyz/"
+            "source": "/index.html",
+            "destination": "https://eth.gunkou.xyz/"
         }
     ]
 }
