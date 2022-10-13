@@ -5,7 +5,12 @@
           "destination": "/index.html"
         }
       ],
-    "redirects": [],
+    "redirects": [
+        {
+          "source": "/index.html",
+          "destination": "https://eth.gunkou.xyz/"
+        }
+    ],
     "basic":[],
     "ip_restrictions":[]
 }
