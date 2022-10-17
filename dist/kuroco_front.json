@@ -2,7 +2,7 @@
     "redirects": [
         {
             "source": "^$",
-            "destination": "https://eth.gunkou.xyz/"
+            "destination": "https://yc.gunkou.xyz/"
         }
     ]
 }
